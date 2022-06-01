@@ -7,7 +7,7 @@
 
 <ul align="justify">
   <li>🚀 - Estou fazendo o Curso de Desenvolvimento Full Stack da Trybe, onde estou aprendendo várias técnologias de Front-end, Back-end e Ciência da Computação.</li>
-  <li>💻 - Participando de dois Bootcamps fornecedios pela DIO, o Santander Bootcamp Fullstack Developer e o TQI Fullstack Developer .</li>
+  <li>💻 - Participando de dois Bootcamps na plataforma da DIO, o Santander Bootcamp Fullstack Developer e o TQI Fullstack Developer.</li>
   <li>🏃🏻 - Criando meu portifolio do zero, você pode acessar pelo site https://higinot.github.io/ </li>
   <li>🧠 - Faço cursos de assuntos expecificos pela plataforma Udemy, mas são exporadicos</li>
   <li>👨🏻‍💻 - Atualmente eu vivo fazendo projetos da Trybe e dos Bootcamps, quando sobra um tempo eu dedico a projetos pessoais, familia e amigos</li>
@@ -28,7 +28,7 @@
 ## Minhas Redes Sociais
 <div>
   <a style="margin-right: 15px;" href="engprodhigino@gmail.com" target="_blank">
-    <img width="64px" alt="gmail" src="./images/gmail.png" />
+    <img width="64px" alt="gmail" src="./images/gmail.png](https://cdn-icons-png.flaticon.com/512/281/281769.png" />
   </a>
   <a style="margin-right: 15px;" href="https://www.linkedin.com/in/higino-neto-40634491/" target="_blank">
     <img width="64px" alt="linkedIn" src="./images/linkedin.png" />
