@@ -3,14 +3,14 @@
   Eu sou o <strong>Higino Tomé José da Silva Neto</strong>, apelidado de Gino ou <strong>higinot</strong>, sou formado em engenharia produção, mas atualmente estou em transição de carreia para área da tecnologia por me identificar mais com o presente do que com o passado. Curto tecnologia pela revolução que ela traz e por gostar de fazer coisas que vão impactar varias pessoas em qualquer lugar do mundo.
  </div>
 
-## O quê estou trabalhando atualmente 🤔
+## O quê estou trabalhando atualmente 🛠️
 
 <ul align="justify">
-  <li>⚽ Estou fazendo o Curso de Desenvolvimento Full Stack da Trybe, onde estou aprendendo várias técnologias de Front-end, Back-end e Ciência da Computação. 😂</li>
-  <li>🤖 Participando de dois Bootcamps fornecedios pela DIO, o Santander Bootcamp Fullstack Developer e o TQI Fullstack Developer .</li>
-  <li>🏃🏻 Criando meu portifolio do zero, você pode acessar pelo site https://higinot.github.io/ </li>
-  <li>🎮 Faço cursos de assuntos expecificos pela plataforma Udemy, mas são exporadicos</li>
-  <li>👨🏻‍💻 Atualmente eu vivo fazendo projetos da Trybe e dos Bootcamps, quando sobra um tempo eu dedico a projetos pessoais, familia e amigos</li>
+  <li>🚀 - Estou fazendo o Curso de Desenvolvimento Full Stack da Trybe, onde estou aprendendo várias técnologias de Front-end, Back-end e Ciência da Computação.</li>
+  <li>💻 - Participando de dois Bootcamps fornecedios pela DIO, o Santander Bootcamp Fullstack Developer e o TQI Fullstack Developer .</li>
+  <li>🏃🏻 - Criando meu portifolio do zero, você pode acessar pelo site https://higinot.github.io/ </li>
+  <li>🧠 - Faço cursos de assuntos expecificos pela plataforma Udemy, mas são exporadicos</li>
+  <li>👨🏻‍💻 - Atualmente eu vivo fazendo projetos da Trybe e dos Bootcamps, quando sobra um tempo eu dedico a projetos pessoais, familia e amigos</li>
 </ul>
 
 ## Tecnologias e Ferramentas
@@ -27,14 +27,11 @@
 
 ## Minhas Redes Sociais
 <div>
-  <a style="margin-right: 15px;" href="mailto:gabridal96@gmail.com" target="_blank">
+  <a style="margin-right: 15px;" href="engprodhigino@gmail.com" target="_blank">
     <img width="64px" alt="gmail" src="./images/gmail.png" />
   </a>
-  <a style="margin-right: 15px;" href="https://www.linkedin.com/in/gabrieldalseco/" target="_blank">
+  <a style="margin-right: 15px;" href="https://www.linkedin.com/in/higino-neto-40634491/" target="_blank">
     <img width="64px" alt="linkedIn" src="./images/linkedin.png" />
-  </a>
-  <a style="margin-right: 15px;" href="https://www.facebook.com/gabriel.dalseco.1/" target="_blank">
-    <img width="64px" alt="" src="./images/facebook.png" />
   </a>
 </div>
 
