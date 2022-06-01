@@ -28,7 +28,7 @@
 ## Minhas Redes Sociais
 <div>
   <a style="margin-right: 15px;" href="engprodhigino@gmail.com" target="_blank">
-    <img width="64px" alt="gmail" src="[https://cdn-icons-png.flaticon.com/512/281/281769.png](https://cdn-icons-png.flaticon.com/512/281/281769.png](https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png)" />
+    <img width="64px" alt="gmail" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
   </a>
   <a style="margin-right: 15px;" href="https://www.linkedin.com/in/higino-neto-40634491/" target="_blank">
     <img width="64px" alt="linkedIn" src="./images/linkedin.png" />
