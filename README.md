@@ -12,7 +12,7 @@
   <li>🧠 - Faço cursos de assuntos expecificos pela plataforma Udemy, mas são exporadicos.</li>
   <li>👨🏻‍💻 - Atualmente eu vivo fazendo projetos da Trybe e dos Bootcamps, quando sobra um tempo eu dedico a projetos pessoais, familia e amigos.</li>
 </ul>
-<iframe src="https://giphy.com/embed/KbBsgXdWFhr8nfz0ho" width="383" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/moody-brasov-darius-anton-KbBsgXdWFhr8nfz0ho">via GIPHY</a></p>
+<img src="https://giphy.com/embed/KbBsgXdWFhr8nfz0ho" width="383" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/moody-brasov-darius-anton-KbBsgXdWFhr8nfz0ho">via GIPHY</a></p>
 
 ## Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
