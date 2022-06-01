@@ -1,4 +1,4 @@
-## Bem vindo ao meu Githun, 👋
+## Bem vindo ao meu Github, 👋
 <div align="justify">
   Eu sou o <strong>Higino Tomé José da Silva Neto</strong>, apelidado de Gino ou <strong>higinot</strong>, sou formado em engenharia produção, mas atualmente estou em transição de carreia para área da tecnologia por me identificar mais com o presente do que com o passado. Curto tecnologia pela revolução que ela traz e por gostar de fazer coisas que vão impactar varias pessoas em qualquer lugar do mundo.
  </div>
@@ -40,13 +40,13 @@
 <tr><td>
 
   <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielCoruja&show_icons=true&theme=blue-green" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=higinot&show_icons=true&theme=blue-green" />
   </a>
 
 </td><td>
 
   <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCoruja&layout=compact&theme=blue-green" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higinot&layout=compact&theme=blue-green" />
   </a>
 
 </td></tr>
