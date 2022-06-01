@@ -31,7 +31,7 @@
     <img width="64px" alt="gmail" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
   </a>
   <a style="margin-right: 15px;" href="https://www.linkedin.com/in/higino-neto-40634491/" target="_blank">
-    <img width="64px" alt="linkedIn" src="./images/linkedin.png" />
+    <img width="64px" alt="linkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
   </a>
 </div>
 
