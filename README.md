@@ -1,9 +1,9 @@
 ## Bem vindo ao meu Github, 👋
 <div align="justify" display="flex">
-  <div width="200" >Eu sou o <strong>Higino Tomé José da Silva Neto</strong>, apelidado de Gino ou <strong>higinot</strong>, sou formado em engenharia produção, mas atualmente estou em transição de carreia para área da tecnologia por me identificar mais com o presente do que com o passado. Curto tecnologia pela revolução que ela traz e por gostar de fazer coisas que vão impactar varias pessoas em qualquer lugar do mundo.</div>
+  <div width="50vw" >Eu sou o <strong>Higino Tomé José da Silva Neto</strong>, apelidado de Gino ou <strong>higinot</strong>, sou formado em engenharia produção, mas atualmente estou em transição de carreia para área da tecnologia por me identificar mais com o presente do que com o passado. Curto tecnologia pela revolução que ela traz e por gostar de fazer coisas que vão impactar varias pessoas em qualquer lugar do mundo.</div>
 
   
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200" />
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="40vw" />
  </div>
 
 ## O quê estou trabalhando atualmente 🛠️
