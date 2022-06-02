@@ -1,6 +1,7 @@
 ## Bem vindo ao meu Github, 👋
 <div align="justify" display="flex">
   Eu sou o <strong>Higino Tomé José da Silva Neto</strong>, apelidado de Gino ou <strong>higinot</strong>, sou formado em engenharia produção, mas atualmente estou em transição de carreia para área da tecnologia por me identificar mais com o presente do que com o passado. Curto tecnologia pela revolução que ela traz e por gostar de fazer coisas que vão impactar varias pessoas em qualquer lugar do mundo.
+  <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
  </div>
 
@@ -11,7 +12,7 @@
 <li>🏃🏻 - Criando meu portifolio do zero, você pode acessar pelo site https://higinot.github.io/ .</li>
 <li>🧠 - Faço cursos de assuntos expecificos pela plataforma Udemy, mas são exporadicos.</li>
 <li>👨🏻‍💻 - Atualmente eu vivo fazendo projetos da Trybe e dos Bootcamps, quando sobra um tempo eu dedico a projetos pessoais, familia e amigos.</li>
-<li><img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /></li>
+<li></li>
 
 </ul>
       
