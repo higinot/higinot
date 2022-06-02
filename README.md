@@ -34,9 +34,9 @@
   <a style="margin-right: 15px;" href="https://www.linkedin.com/in/higino-neto-40634491/" target="_blank">
     <img width="64px" alt="linkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
   </a>
-  - <a href="https://www.instagram.com/higinot/"><img src="https://img.shields.io/badge/instagram%20@teen_developer-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-- <a href="https://www.linkedin.com/in/higino-neto-40634491/"><img src="https://img.shields.io/badge/linkedin%20@saviomartin.1694-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-- <a href="engprodhigino@gmail.com"><img src="https://img.shields.io/badge/gmail%20@saviomartin3-0D95E8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  - <a href="https://www.instagram.com/higinot/"><img src="https://img.shields.io/badge/instagram%20@higinot-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+- <a href="https://www.linkedin.com/in/higino-neto-40634491/"><img src="https://img.shields.io/badge/linkedin%20@higino-neto-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+- <a href="engprodhigino@gmail.com"><img src="https://img.shields.io/badge/gmail%20@engprodhigino-0D95E8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 - <a href="https://savio.works/"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20savio.works-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
 </div>
 
