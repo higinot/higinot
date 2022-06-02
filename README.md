@@ -10,7 +10,7 @@
 </div>
 
 <h3 align="center"> O quê estou trabalhando atualmente 🛠️ </h3>
-<ul align="left">
+<ul align="center">
 <li>🚀 - Curso de Desenvolvimento Full Stack da Trybe.</li>
 <li>💻 - Bootcamps na plataforma da DIO, o Santander Bootcamp Fullstack Developer e o TQI Fullstack Developer.</li>
 <li>🏃🏻 - Meu portifolio, você pode acessar pelo site https://higinot.github.io/ .</li>
