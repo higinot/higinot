@@ -3,7 +3,7 @@ Eu sou o Higino Tomé José da Silva Neto, apelidado de Gino ou higinot, sou for
 
 <hr>
 
-<img align="right" alt="GIF" height="240" width="220" margin-right="100" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="240" width="50%" margin-right="100" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 <h3 align="left"> O quê estou trabalhando atualmente 🛠️ </h3>
 <ul align="left" style="none">
