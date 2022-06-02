@@ -43,9 +43,9 @@
   
   <div align="center"> 
      <a href="">
-      <img align="center" style="width: 500px ; height: 400px ;" src="https://github-readme-stats.vercel.app/api?username=higinot&show_icons=true&theme=tokyonight" />
+      <img align="center"  src="https://github-readme-stats.vercel.app/api?username=higinot&show_icons=true&theme=tokyonight" />
     </a>
     <a href="">
-     <img align="center" style="width: 500px ; height: 200px ;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higinot&layout=compact&theme=tokyonight" />
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higinot&layout=compact&theme=tokyonight" />
     </a>
 </div
