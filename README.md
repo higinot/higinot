@@ -1,7 +1,7 @@
 <img align="right" alt="GIF" height="160" width="200" margin-right="100" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-<h3 align="right"> O quê estou trabalhando atualmente 🛠️ </h3>
-<ul align="right" style="none">
+<h3 align="left"> O quê estou trabalhando atualmente 🛠️ </h3>
+<ul align="left" style="none">
   <li>🚀 - Curso de Desenvolvimento Full Stack da Trybe. </li>
   <li>💻 - Bootcamps na plataforma da DIO, o Santander Bootcamp Fullstack Developer e o TQI Fullstack Developer.</li>
   <li>🏃🏻 - Meu portifolio, você pode acessar pelo site https://higinot.github.io/ .</li>
