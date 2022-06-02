@@ -1,6 +1,6 @@
 ## Bem vindo ao meu Github, 👋
-<img align="right" alt="GIF" height="160px"  width="500px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-<div align="justify" display="flex"> 
+<img align="right" alt="GIF" height="160px"  width="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<div align="justify" width="100px"> 
   Eu sou o <strong>Higino Tomé José da Silva Neto</strong>, apelidado de Gino ou <strong>higinot</strong>, sou formado em engenharia produção, mas atualmente estou em transição de carreia para área da tecnologia por me identificar mais com o presente do que com o passado. Curto tecnologia pela revolução que ela traz e por gostar de fazer coisas que vão impactar varias pessoas em qualquer lugar do mundo.
   <br>
   <br>
