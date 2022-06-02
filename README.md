@@ -16,6 +16,8 @@ Eu sou o <strong>Higino Tomé José da Silva Neto</strong>, apelidado de Gino ou
   <span>🧠 - Cursos pela plataforma Udemy.</span>
   <br>
 </div>
+<br>
+<br>
 <hr>
       
 <h3 align="center"> Tecnologias e Ferramentas 📈 </h3>
