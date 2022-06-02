@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" height="160" width="200" margin-right="100" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="300" width="200" margin-right="100" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 <h3 align="left"> O quê estou trabalhando atualmente 🛠️ </h3>
 <ul align="left" style="none">
