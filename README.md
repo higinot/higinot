@@ -1,17 +1,7 @@
-
 <img align="right" alt="GIF" height="160" width="200" margin-right="100" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-<div align="justify" height="160" width="200"> 
-  <h3 align="center"> Bem vindo ao meu Github 🛠️ </h3>
-  Eu sou o <strong>Higino Tomé José da Silva Neto</strong>, apelidado de Gino ou <strong>higinot</strong>, sou formado em engenharia produção, mas atualmente estou em transição de carreia para área da tecnologia por me identificar mais com o presente do que com o passado. Curto tecnologia pela revolução que ela traz e por gostar de fazer coisas que vão impactar varias pessoas em qualquer lugar do mundo.
-  <br>
-  <br>
-  <br>
-  <br>
-</div>
-<br>
 
-<h3 align="center"> O quê estou trabalhando atualmente 🛠️ </h3>
-<ul align="center" style="none">
+<h3 align="right"> O quê estou trabalhando atualmente 🛠️ </h3>
+<ul align="right" style="none">
   <li>🚀 - Curso de Desenvolvimento Full Stack da Trybe. </li>
   <li>💻 - Bootcamps na plataforma da DIO, o Santander Bootcamp Fullstack Developer e o TQI Fullstack Developer.</li>
   <li>🏃🏻 - Meu portifolio, você pode acessar pelo site https://higinot.github.io/ .</li>
