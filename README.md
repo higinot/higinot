@@ -33,8 +33,6 @@ Eu sou o <strong>Higino Tomé José da Silva Neto</strong>, apelidado de Gino ou
 <img align="center" alt="Redux" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
 <img align="center" alt="Jest" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
 </div>
- <br>
-<h3 align="center"> Minhas redes sociais  </h3>
 
 <br>
 
