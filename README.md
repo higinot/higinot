@@ -8,6 +8,7 @@
   <br>
   <br>
 </div>
+<br>
 
 <h3 align="center"> O quê estou trabalhando atualmente 🛠️ </h3>
 <ul align="center" style="none">
@@ -16,8 +17,9 @@
   <li>🏃🏻 - Meu portifolio, você pode acessar pelo site https://higinot.github.io/ .</li>
   <li>🧠 - Cursos pela plataforma Udemy.</li>
 </ul>
+<br>
       
-<h2 align="center"> Tecnologias e Ferramentas 📈 </h2>
+<h3 align="center"> Tecnologias e Ferramentas 📈 </h3>
 <div align="center" style="display: inline_block"><br>
 <img align="center" alt="Git" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
 <img align="center" alt="Linux" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
@@ -29,7 +31,7 @@
 <img align="center" alt="Jest" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
 </div>
  <br>
-<h2 align="center"> Minhas redes sociais  </h2>
+<h3 align="center"> Minhas redes sociais  </h3>
 <div align="center" >
 <a href="https://www.linkedin.com/in/higino-neto-40634491/"><img height="30" width="150" src="https://img.shields.io/badge/linkedin%20@higino-344E86?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="engprodhigino@gmail.com"><img height="30" width="150" src="https://img.shields.io/badge/gmail%20@engprodhigino-c71610?style=for-the-badge&logo=gmail&logoColor=white"/></a>
