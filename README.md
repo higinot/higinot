@@ -6,7 +6,7 @@ Eu sou o <strong>Higino Tomé José da Silva Neto</strong>, apelidado de Gino ou
 <img align="right" alt="GIF" height="180" width="40%" margin-right="100" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 <h3 align="center"> O quê estou trabalhando atualmente 🛠️ </h3>
-<div align="center">
+<div align="center" style="margin-right: 30px">
   <span>🚀 - Curso de Desenvolvimento Full Stack da Trybe.</span>
   <br>
   <span>💻 - Bootcamps na plataforma da DIO, o Santander Bootcamp Fullstack Developer e o TQI Fullstack Developer.</span>
