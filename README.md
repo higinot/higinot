@@ -1,3 +1,8 @@
+<h2>Bem vindo ao meu Github :hammer_and_wrench: </h2>
+Eu sou o Higino Tomé José da Silva Neto, apelidado de Gino ou higinot, sou formado em engenharia produção, mas atualmente estou em transição de carreia para área da tecnologia por me identificar mais com o presente do que com o passado. Curto tecnologia pela revolução que ela traz e por gostar de fazer coisas que vão impactar varias pessoas em qualquer lugar do mundo.
+
+<hr>
+
 <img align="right" alt="GIF" height="240" width="220" margin-right="100" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 <h3 align="left"> O quê estou trabalhando atualmente 🛠️ </h3>
