@@ -3,7 +3,7 @@ Eu sou o <strong>Higino Tomé José da Silva Neto</strong>, apelidado de Gino ou
 
 <hr>
 
-<img align="right" alt="GIF" height="180" width="40%" margin-right="100" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="180" width="40%" style="margin: 20px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 <h3 align="center"> O quê estou trabalhando atualmente 🛠️ </h3>
 <div align="center" style="padding: 20px">
@@ -16,7 +16,6 @@ Eu sou o <strong>Higino Tomé José da Silva Neto</strong>, apelidado de Gino ou
   <span>🧠 - Cursos pela plataforma Udemy.</span>
   <br>
 </div>
-<br>
 <br>
 <hr>
       
