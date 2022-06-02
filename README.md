@@ -38,12 +38,14 @@
 <a href="https://www.linkedin.com/in/higino-neto-40634491/"><img src="https://img.shields.io/badge/linkedin%20@higino-344E86?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="engprodhigino@gmail.com"><img src="https://img.shields.io/badge/gmail%20@engprodhigino-c71610?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
-      
-## GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank">
-<img align="center" style="width: 500px ; height: 400px ;" src="https://github-readme-stats.vercel.app/api?username=higinot&show_icons=true&theme=tokyonight" />
-</a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank" target="_blank">
-<img align="center" style="width: 500px ; height: 200px ;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higinot&layout=compact&theme=tokyonight" />
-</a>
+<h2 align="center"> Github Statistics 📈 </h2>
+  
+  <div align="center"> 
+     <a href="">
+      <img align="center" style="width: 500px ; height: 400px ;" src="https://github-readme-stats.vercel.app/api?username=higinot&show_icons=true&theme=tokyonight" />
+    </a>
+    <a href="">
+     <img align="center" style="width: 500px ; height: 200px ;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higinot&layout=compact&theme=tokyonight" />
+    </a>
+</div
