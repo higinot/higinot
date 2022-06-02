@@ -40,10 +40,10 @@ Eu sou o <strong>Higino Tomé José da Silva Neto</strong>, apelidado de Gino ou
   
 <div align="center"> 
      <a href="">
-      <img align="center"  src="https://github-readme-stats.vercel.app/api?username=higinot&show_icons=true&theme=tokyonight" />
+      <img align="center" height="100" width="150"  src="https://github-readme-stats.vercel.app/api?username=higinot&show_icons=true&theme=tokyonight" />
     </a>
     <a href="">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higinot&layout=compact&theme=tokyonight" />
+     <img align="center" height="100" width="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higinot&layout=compact&theme=tokyonight" />
     </a>
 </div
   
