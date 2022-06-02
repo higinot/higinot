@@ -8,6 +8,8 @@
   <li>🧠 - Cursos pela plataforma Udemy.</li>
 </ul>
 <br>
+<br>
+<hr>
       
 <h3 align="center"> Tecnologias e Ferramentas 📈 </h3>
 <div align="center" style="display: inline_block"><br>
