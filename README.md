@@ -3,7 +3,7 @@ Eu sou o <strong>Higino Tomé José da Silva Neto</strong>, apelidado de Gino ou
 
 <hr>
 
-<img align="right" alt="GIF" height="180" width="40%" style="margin: 20px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="180" width="40%" style="margin: 20px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /><img align="right" alt="GIF" height="180" width="40%" style="margin: 20px" src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u" />
 
 <h3 align="center"> O quê estou trabalhando atualmente 🛠️ </h3>
 <div align="center" style="padding: 20px">
