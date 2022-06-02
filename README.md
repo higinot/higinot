@@ -9,7 +9,9 @@ Eu sou o <strong>Higino Tomé José da Silva Neto</strong>, apelidado de Gino ou
 <div align="center" style="padding: 20px">
   <span>🚀 - Curso de Desenvolvimento Full Stack da Trybe.</span>
   <br>
-  <span>💻 - Bootcamps na plataforma da DIO, o Santander Bootcamp Fullstack Developer e o TQI Fullstack Developer.</span>
+  <span>💻 - Bootcamp Santander Bootcamp Fullstack Developer.</span>
+  <br>
+    <span>💻 - Bootcamp TQI Fullstack Developer.</span>
   <br>
   <span>🏃🏻 - Meu portifolio, você pode acessar pelo site https://higinot.github.io/ .</span>]
   <br>
