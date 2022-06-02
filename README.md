@@ -47,7 +47,8 @@ Eu sou o <strong>Higino Tomé José da Silva Neto</strong>, apelidado de Gino ou
     </a>
 </div
   
-  <div align="center" >
+<div align="center" >
+  
 <a href="https://www.linkedin.com/in/higino-neto-40634491/"><img height="30" width="150" src="https://img.shields.io/badge/linkedin%20@higino-344E86?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="engprodhigino@gmail.com"><img height="30" width="150" src="https://img.shields.io/badge/gmail%20@engprodhigino-c71610?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/higinot/"><img height="30" width="150" src="https://img.shields.io/badge/instagram%20@higinot-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
