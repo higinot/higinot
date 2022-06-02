@@ -3,7 +3,7 @@ Eu sou o <strong>Higino Tomé José da Silva Neto</strong>, apelidado de Gino ou
 
 <hr>
 
-<img align="right" alt="GIF" height="180" width="40%" style="margin: 20px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /><img align="right" alt="GIF" height="180" width="40%" style="margin: 20px" src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u" />
+<img align="right" alt="GIF" height="180" width="40%" style="margin: 20px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 <h3 align="center"> O quê estou trabalhando atualmente 🛠️ </h3>
 <div align="center" style="padding: 20px">
@@ -21,8 +21,6 @@ Eu sou o <strong>Higino Tomé José da Silva Neto</strong>, apelidado de Gino ou
 <br>
 
 <hr>
-
-<div style="width:100%;height:0;padding-bottom:96%;position:relative;"><iframe src="https://giphy.com/embed/f7omQNmgiyjj5sffvZ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/computer-dev-computador-f7omQNmgiyjj5sffvZ">via GIPHY</a></p>
       
 <h3 align="center"> Tecnologias e Ferramentas 📈 </h3>
 <div align="center" style="display: inline_block"><br>
