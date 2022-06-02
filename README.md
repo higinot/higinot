@@ -11,11 +11,10 @@
 
 <h3 align="center"> O quê estou trabalhando atualmente 🛠️ </h3>
 <ul align="center" list-style="none">
-🚀 - Curso de Desenvolvimento Full Stack da Trybe.
-💻 - Bootcamps na plataforma da DIO, o Santander Bootcamp Fullstack Developer e o TQI Fullstack Developer.
-🏃🏻 - Meu portifolio, você pode acessar pelo site https://higinot.github.io/ .
-🧠 - Cursos pela plataforma Udemy.
-
+  <li>🚀 - Curso de Desenvolvimento Full Stack da Trybe. </li>
+  <li>💻 - Bootcamps na plataforma da DIO, o Santander Bootcamp Fullstack Developer e o TQI Fullstack Developer.</li>
+  <li>🏃🏻 - Meu portifolio, você pode acessar pelo site https://higinot.github.io/ .</li>
+  <li>🧠 - Cursos pela plataforma Udemy.</li>
 </ul>
       
 <h2 align="center"> Tecnologias e Ferramentas 📈 </h2>
