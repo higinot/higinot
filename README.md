@@ -7,7 +7,7 @@
   <br>
 </div>
 
-<h2 align="center"> O quê estou trabalhando atualmente 🛠️ </h2>
+<h3 align="center"> O quê estou trabalhando atualmente 🛠️ </h3>
 <ul align="left">
 <li>🚀 - Estou fazendo o Curso de Desenvolvimento Full Stack da Trybe, onde estou aprendendo várias técnologias de Front-end, Back-end e Ciência da Computação.</li>
 <li>💻 - Participando de dois Bootcamps na plataforma da DIO, o Santander Bootcamp Fullstack Developer e o TQI Fullstack Developer.</li>
