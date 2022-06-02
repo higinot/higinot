@@ -4,9 +4,6 @@
   Eu sou o <strong>Higino Tomé José da Silva Neto</strong>, apelidado de Gino ou <strong>higinot</strong>, sou formado em engenharia produção, mas atualmente estou em transição de carreia para área da tecnologia por me identificar mais com o presente do que com o passado. Curto tecnologia pela revolução que ela traz e por gostar de fazer coisas que vão impactar varias pessoas em qualquer lugar do mundo.
   <br>
   <br>
-  <br>
-  <br>
-
 </div>
 
 <h2 align="center"> O quê estou trabalhando atualmente 🛠️ </h2>
@@ -16,7 +13,6 @@
 <li>🏃🏻 - Criando meu portifolio do zero, você pode acessar pelo site https://higinot.github.io/ .</li>
 <li>🧠 - Faço cursos de assuntos expecificos pela plataforma Udemy, mas são exporadicos.</li>
 <li>👨🏻‍💻 - Atualmente eu vivo fazendo projetos da Trybe e dos Bootcamps, quando sobra um tempo eu dedico a projetos pessoais, familia e amigos.</li>
-<li></li>
 
 </ul>
       
