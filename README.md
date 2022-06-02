@@ -34,9 +34,9 @@
  <br>
 <h2 align="center"> Minhas redes sociais  </h2>
 <div align="center" >
-<a href="https://www.instagram.com/higinot/"><img height="60" width="200" src="https://img.shields.io/badge/instagram%20@higinot-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/higino-neto-40634491/"><img height="60" width="200" src="https://img.shields.io/badge/linkedin%20@higino-344E86?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="engprodhigino@gmail.com"><img height="60" width="200" src="https://img.shields.io/badge/gmail%20@engprodhigino-c71610?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/higinot/"><img height="40" width="160" src="https://img.shields.io/badge/instagram%20@higinot-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/higino-neto-40634491/"><img height="40" width="160" src="https://img.shields.io/badge/linkedin%20@higino-344E86?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="engprodhigino@gmail.com"><img height="40" width="160" src="https://img.shields.io/badge/gmail%20@engprodhigino-c71610?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 <h2 align="center"> Github Statistics 📈 </h2>
