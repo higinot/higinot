@@ -1,5 +1,8 @@
 <h2 align="center" >Bem vindo ao meu Github :hammer_and_wrench: </h2>
-Eu sou o <strong>Higino Tomé José da Silva Neto</strong>, apelidado de Gino ou <strong>higinot</strong>, sou formado em engenharia produção, mas atualmente estou em transição de carreia para área da <strong>tecnologia</strong> por me identificar mais com o presente do que com o passado. Curto tecnologia pela revolução que ela traz e por gostar de fazer coisas que vão impactar varias pessoas em qualquer lugar do mundo.
+Meu nome é Higino e estou em transição de carreira para a área de tecnologia. Atualmente, estou estudando na Trybe e me esforçando para aprender o máximo possível sobre o mundo da tecnologi. Estou muito animado para ver onde essa jornada me levará e espero poder contribuir de alguma forma para essa indústria em constante mudança. 
+
+Acredito que a tecnologia tem o poder de transformar o mundo, trazendo soluções inovadoras e eficientes para os mais diversos problemas.
+
 
 <hr>
 
