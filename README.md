@@ -1,6 +1,6 @@
 <h2 align="center" >Bem vindo ao meu Github :hammer_and_wrench: </h2>
 Meu nome é Higino e estou em transição de carreira para a área de tecnologia. Atualmente, estou estudando na Trybe e me esforçando para aprender o máximo possível sobre o mundo da tecnologi. Estou muito animado para ver onde essa jornada me levará e espero poder contribuir de alguma forma para essa indústria em constante mudança. 
-
+<br>
 Acredito que a tecnologia tem o poder de transformar o mundo, trazendo soluções inovadoras e eficientes para os mais diversos problemas.
 
 
